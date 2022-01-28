@@ -107,3 +107,15 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+/* NotFound page*/
+.not-found button {
+  font-size: 16px;
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
