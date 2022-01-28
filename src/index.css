@@ -69,6 +69,10 @@
   border-radius: 8px;
   cursor: pointer;
 }
+.blog-details article p {
+  font-size: 14px;
+  padding-bottom: 1px;
+}
 
 /* create new blog form */
 .create {
